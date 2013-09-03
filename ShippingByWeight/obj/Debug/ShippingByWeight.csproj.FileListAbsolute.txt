@@ -1,0 +1,25 @@
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\bin\Debug\ShippingByWeight.dll
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\bin\Debug\ShippingByWeight.pdb
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\bin\Debug\TeaCommerce.Data.dll
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\bin\Debug\umbraco.dll
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\obj\Debug\ShippingByWeight.csprojResolveAssemblyReference.cache
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\obj\Debug\ShippingByWeight.dll
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\obj\Debug\ShippingByWeight.pdb
+C:\Users\luke\Documents\Visual Studio 2012\Projects\baseshop\ShippingByWeight\bin\Debug\businesslogic.dll
+M:\Umbraco\ShippingByWeight\bin\Debug\ShippingByWeight.dll
+M:\Umbraco\ShippingByWeight\bin\Debug\ShippingByWeight.pdb
+M:\Umbraco\ShippingByWeight\bin\Debug\businesslogic.dll
+M:\Umbraco\ShippingByWeight\bin\Debug\TeaCommerce.Data.dll
+M:\Umbraco\ShippingByWeight\bin\Debug\umbraco.dll
+M:\Umbraco\ShippingByWeight\obj\Debug\ShippingByWeight.csprojResolveAssemblyReference.cache
+M:\Umbraco\ShippingByWeight\obj\Debug\ShippingByWeight.dll
+M:\Umbraco\ShippingByWeight\obj\Debug\ShippingByWeight.pdb
+X:\Umbraco\ShippingByWeight\bin\Debug\ShippingByWeight.dll
+X:\Umbraco\ShippingByWeight\bin\Debug\ShippingByWeight.pdb
+X:\Umbraco\ShippingByWeight\bin\Debug\businesslogic.dll
+X:\Umbraco\ShippingByWeight\bin\Debug\cms.dll
+X:\Umbraco\ShippingByWeight\bin\Debug\TeaCommerce.Data.dll
+X:\Umbraco\ShippingByWeight\bin\Debug\umbraco.dll
+X:\Umbraco\ShippingByWeight\obj\Debug\ShippingByWeight.csprojResolveAssemblyReference.cache
+X:\Umbraco\ShippingByWeight\obj\Debug\ShippingByWeight.dll
+X:\Umbraco\ShippingByWeight\obj\Debug\ShippingByWeight.pdb

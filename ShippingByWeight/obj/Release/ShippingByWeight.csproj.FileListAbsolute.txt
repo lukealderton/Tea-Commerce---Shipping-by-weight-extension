@@ -1,0 +1,9 @@
+X:\Umbraco\ShippingByWeight\bin\Release\ShippingByWeight.dll
+X:\Umbraco\ShippingByWeight\bin\Release\ShippingByWeight.pdb
+X:\Umbraco\ShippingByWeight\bin\Release\businesslogic.dll
+X:\Umbraco\ShippingByWeight\bin\Release\TeaCommerce.Data.dll
+X:\Umbraco\ShippingByWeight\obj\Release\ShippingByWeight.csprojResolveAssemblyReference.cache
+X:\Umbraco\ShippingByWeight\obj\Release\ShippingByWeight.dll
+X:\Umbraco\ShippingByWeight\obj\Release\ShippingByWeight.pdb
+X:\Umbraco\ShippingByWeight\bin\Release\cms.dll
+X:\Umbraco\ShippingByWeight\bin\Release\umbraco.dll
